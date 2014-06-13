@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webpocket"
+  id="myeclipse.1389456224027"
+  context-root="/webpocket"
+  j2ee-spec="5.0"
+  archive="webpocket.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: url(../images/mainback.png) repeat;
+	font-family:"微软雅黑";
+}
+
+#container{
+	margin: 0 auto;
+	width: 350px;
+}
+
+.input_login{
+	width: 250px;
+	height: 50px;
+	font-size:22px;
+}
+
+#login_box{
+	width: 323px;
+	height: 120px;
+	margin-top: 5px;
+}
+
+#message{
+	margin-top:10px;
+	font-size:18px;
+	color:#F00;
+	margin-left:120px;
+	height:20px;
+	line-height:20px;
+}
+
+#logo{
+	height:40px;
+	width: 350px;
+	text-align:center;
+	font-size:26px;
+	letter-spacing: 0.1em;
+}
+
+#container_bt_1{
+	width: 390px;
+	background: url(../images/line1.png) center center no-repeat;
+	height: 50px;
+}

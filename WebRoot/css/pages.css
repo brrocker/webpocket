@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: url(../images/mainback.png) repeat;
+}
+.textitem{
+	float: left;
+}
+.textcontent{
+	height: 120px;
+	width: 100px;
+	border: 1px solid #ccc;
+	margin-right: 20px;
+	padding: 3px;
+	overflow: hidden;
+	font-size:8px;
+	cursor: pointer;
+	background:#fff;
+	border-radius: 4px;
+	box-shadow: 1px 2px 1px rgba(0,0,0,0.072);
+}
+.textselected{
+	border-color:#F60;
+}
+.textname{
+	width: 100px;
+	height: 25px;
+	padding: 3px;
+	text-align:center;
+}
+#editarea{
+	width: 800px;
+	height: 800px;
+	font-size: 16px;
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.072);
+}
+#edittextname{
+	height: 30px;
+}
+#logout{
+	color: #A0B3C0;
+	cursor:pointer;
+	float:right;
+	margin-right:100px;
+	width: 75px;
+	text-align: right;
+	background: url(../images/logout.png) 10px no-repeat;
+	background-size: 30px 30px;
+}
+#logout:hover{
+	color:#fff;
+}
+
+#welcome{
+	color: #D8E3EB;
+	float:right;
+	margin-right:100px;
+	width: 250px;
+	text-align: right;
+}
+
+#header_box{
+	height:45px;
+	background:url(../images/header.png);
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+#header{
+	margin:0 auto;
+	width:960px;
+	line-height:45px;
+}
+.menu_item{
+	float:left;
+	font-size: 17px;
+	width: 100px;
+	cursor:pointer;
+	text-align: center;
+	background: url(../images/line2.png) right no-repeat;
+	color: #A0B3C0;
+}
+.menu_item:hover{
+	color:#fff;
+}
+#center_box{
+	margin:0 auto;
+	width:960px;
+	margin-top: 45px;
+	padding-top: 5px;
+}
+.input_name{
+	width:100px;
+	height:22px;
+}

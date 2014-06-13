@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	font-family:"微软雅黑"；
+}
+.floatR{
+	float:right;
+}
+.floatL{
+	float:left;
+}
+.btn_gray_L{
+	display: block;
+	width: 114px;
+	height: 50px;
+	background: url(../images/btn_L_2.png) no-repeat;
+	background-position: -1px -1px;
+	font-size: 14px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 8px;
+	letter-spacing: 8px;
+	cursor: pointer;
+}
+.btn_gray_L:hover {
+	background-position: -1px -65px;
+}
+.btn_gray_L:active {
+	background-position: -1px -129px;
+}
+.btn_blue_L{
+	display: block;
+	width: 114px;
+	height: 50px;
+	background: url(../images/btn_L_2.png) no-repeat;
+	background-position: -132px -1px;
+	font-size: 14px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 8px;
+	letter-spacing: 8px;
+	color: #fff;
+	cursor: pointer;
+}
+.btn_blue_L:hover {
+	background-position: -132px -65px;
+}
+.btn_blue_L:active {
+	background-position: -132px -129px;
+}
+.clearfloat{
+	clear:both;
+}
+.button_S{
+	width:73px;
+	user-select: none;
+	cursor: pointer;
+	overflow: hidden;
+	zoom: 1;
+	height: 32px;
+	line-height: 30px;
+	padding-left: 4px;
+	text-align: center;
+	color: #777;
+	background: url('../images/btn_S_1.png') left 0 no-repeat;
+}
+.button_S:hover{
+	background-position: 0px -50px;
+}
+.button_S:active{
+	background-position: 0px -100px;
+}

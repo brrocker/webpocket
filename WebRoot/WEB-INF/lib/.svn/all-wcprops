@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lab/!svn/ver/71/opensys/WebContent/WEB-INF/lib
+END
+hibernate-commons-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/hibernate-commons-annotations.jar
+END
+ejb3-persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/ejb3-persistence.jar
+END
+spring-2.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/spring-2.5.5.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/jta.jar
+END
+commons-dbcp-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/commons-dbcp-1.2.2.jar
+END
+cglib-2.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/cglib-2.1.3.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/asm.jar
+END
+commons-pool-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/commons-pool-1.4.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/hibernate3.jar
+END
+antlr-2.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/antlr-2.7.2.jar
+END
+idstar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/idstar.jar
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/commons-collections-3.2.jar
+END
+mysql-connector-java-5.1.7-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/jdom.jar
+END
+dwr-2.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/dwr-2.0.3.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/hibernate-annotations.jar
+END
+shrinksafe.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lab/!svn/ver/71/opensys/WebContent/WEB-INF/lib/shrinksafe.jar
+END
+org.json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lab/!svn/ver/67/opensys/WebContent/WEB-INF/lib/org.json.jar
+END
+Ice.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/lab/!svn/ver/41/opensys/WebContent/WEB-INF/lib/Ice.jar
+END
